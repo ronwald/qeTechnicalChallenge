@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing Working Class Hero App">
+    <test name="Regression">
+         <classes>
+			 <class name="TestCases.UserStory1"/>
+             <class name="TestCases.UserStory2"/>
+             <class name="TestCases.UserStory3"/>
+             <class name="TestCases.UserStory4"/>
+             <class name="TestCases.UserStory5"/>
+             <class name="TestCases.UserStory6"/>
+          </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->

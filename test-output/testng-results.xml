@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="25" passed="25" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-20T21:15:51 SGT" name="Testing Working Class Hero App" finished-at="2023-09-20T21:15:58 SGT" duration-ms="6548">
+    <groups>
+    </groups>
+    <test started-at="2023-09-20T21:15:51 SGT" name="Regression" finished-at="2023-09-20T21:15:58 SGT" duration-ms="6548">
+      <class name="TestCases.UserStory4">
+        <test-method signature="TestUS4AC1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.UserStory4@67403656]" started-at="2023-09-20T21:15:57 SGT" name="TestUS4AC1" data-provider="DataProviderUS4AC1PositiveTests" finished-at="2023-09-20T21:15:57 SGT" duration-ms="74" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-1036]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[John Connor]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-01-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[VOUCHER 1A]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[TRAVEL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS4AC1 -->
+        <test-method signature="TestUS4AC1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.UserStory4@67403656]" started-at="2023-09-20T21:15:57 SGT" name="TestUS4AC1" data-provider="DataProviderUS4AC1PositiveTests" finished-at="2023-09-20T21:15:57 SGT" duration-ms="55" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-1037]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sarah Connor]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FEMALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-01-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[VOUCHER 1]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[TRAVEL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS4AC1 -->
+        <test-method signature="TestUS4AC1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.UserStory4@67403656]" started-at="2023-09-20T21:15:57 SGT" name="TestUS4AC1" data-provider="DataProviderUS4AC1PositiveTests" finished-at="2023-09-20T21:15:57 SGT" duration-ms="50" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-1038]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[John Connor]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-01-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value is-null="true"/>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[VOUCHER 1]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[TRAVEL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS4AC1 -->
+        <test-method signature="TestUS4AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.UserStory4@67403656]" started-at="2023-09-20T21:15:57 SGT" name="TestUS4AC2" data-provider="DataProviderUS4AC2NegativeTests" finished-at="2023-09-20T21:15:58 SGT" duration-ms="43" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-38]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[John Connor]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-01-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[TRAVEL]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Voucher Name cannot be blank]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS4AC2 -->
+        <test-method signature="TestUS4AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.UserStory4@67403656]" started-at="2023-09-20T21:15:58 SGT" name="TestUS4AC2" data-provider="DataProviderUS4AC2NegativeTests" finished-at="2023-09-20T21:15:58 SGT" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-01-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[VOUCHER 1]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[TRAVEL]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Invalid natid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS4AC2 -->
+        <test-method signature="TestUS4AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.UserStory4@67403656]" started-at="2023-09-20T21:15:58 SGT" name="TestUS4AC2" data-provider="DataProviderUS4AC2NegativeTests" finished-at="2023-09-20T21:15:58 SGT" duration-ms="58" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[NOGENDER]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-01-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[VOUCHER 1]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[TRAVEL]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Invalid gender]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS4AC2 -->
+        <test-method signature="TestUS4AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.UserStory4@67403656]" started-at="2023-09-20T21:15:58 SGT" name="TestUS4AC2" data-provider="DataProviderUS4AC2NegativeTests" finished-at="2023-09-20T21:15:58 SGT" duration-ms="66" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-4650]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-13-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[VOUCHER 1]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[TRAVEL]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[There are some issues with working class hero]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS4AC2 -->
+        <test-method signature="TestUS4AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.UserStory4@67403656]" started-at="2023-09-20T21:15:58 SGT" name="TestUS4AC2" data-provider="DataProviderUS4AC2NegativeTests" finished-at="2023-09-20T21:15:58 SGT" duration-ms="67" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-4198]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2025-05-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[VOUCHER 1]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[TRAVEL]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[There are some issues with working class hero]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS4AC2 -->
+        <test-method signature="TestUS4AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.UserStory4@67403656]" started-at="2023-09-20T21:15:58 SGT" name="TestUS4AC2" data-provider="DataProviderUS4AC2NegativeTests" finished-at="2023-09-20T21:15:58 SGT" duration-ms="43" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-78446]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-01-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[-10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[VOUCHER 1]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[TRAVEL]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Salary must be greater than or equals to zero]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS4AC2 -->
+        <test-method signature="TestUS4AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.UserStory4@67403656]" started-at="2023-09-20T21:15:58 SGT" name="TestUS4AC2" data-provider="DataProviderUS4AC2NegativeTests" finished-at="2023-09-20T21:15:58 SGT" duration-ms="42" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-4202]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-01-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[VOUCHER 1]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[TRAVEL]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[must be greater than or equal to 0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS4AC2 -->
+      </class> <!-- TestCases.UserStory4 -->
+      <class name="TestCases.UserStory3">
+        <test-method signature="testAC1AndAC2()[pri:0, instance:TestCases.UserStory3@34dc85a]" started-at="2023-09-20T21:15:57 SGT" name="testAC1AndAC2" finished-at="2023-09-20T21:15:57 SGT" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAC1AndAC2 -->
+      </class> <!-- TestCases.UserStory3 -->
+      <class name="TestCases.UserStory2">
+        <test-method signature="testAC1AndAC2()[pri:0, instance:TestCases.UserStory2@55a147cc]" started-at="2023-09-20T21:15:54 SGT" name="testAC1AndAC2" finished-at="2023-09-20T21:15:55 SGT" duration-ms="1557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAC1AndAC2 -->
+        <test-method signature="testAC4()[pri:0, instance:TestCases.UserStory2@55a147cc]" started-at="2023-09-20T21:15:55 SGT" name="testAC4" finished-at="2023-09-20T21:15:57 SGT" duration-ms="1533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAC4 -->
+      </class> <!-- TestCases.UserStory2 -->
+      <class name="TestCases.UserStory1">
+        <test-method signature="TestUS1AC1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,java.lang.String)[pri:0, instance:TestCases.UserStory1@4d154ccd]" started-at="2023-09-20T21:15:51 SGT" name="TestUS1AC1" data-provider="DataProviderUS1AC1PositiveTests" finished-at="2023-09-20T21:15:53 SGT" duration-ms="1332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-203]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[John Connor]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1965-09-19T23:14:27]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS1AC1 -->
+        <test-method signature="TestUS1AC1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,java.lang.String)[pri:0, instance:TestCases.UserStory1@4d154ccd]" started-at="2023-09-20T21:15:53 SGT" name="TestUS1AC1" data-provider="DataProviderUS1AC1PositiveTests" finished-at="2023-09-20T21:15:53 SGT" duration-ms="47" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-204]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sarah Connor]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FEMALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1965-09-19T23:14:27]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS1AC1 -->
+        <test-method signature="TestUS1AC1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,java.lang.String)[pri:0, instance:TestCases.UserStory1@4d154ccd]" started-at="2023-09-20T21:15:53 SGT" name="TestUS1AC1" data-provider="DataProviderUS1AC1PositiveTests" finished-at="2023-09-20T21:15:53 SGT" duration-ms="46" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-205]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sarah Connor]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FEMALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1975-09-19T23:14:27]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS1AC1 -->
+        <test-method signature="TestUS1AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String)[pri:0, instance:TestCases.UserStory1@4d154ccd]" started-at="2023-09-20T21:15:53 SGT" name="TestUS1AC2" data-provider="DataProviderUS1AC1NegativeTests" finished-at="2023-09-20T21:15:53 SGT" duration-ms="575" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-01-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Invalid natid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS1AC2 -->
+        <test-method signature="TestUS1AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String)[pri:0, instance:TestCases.UserStory1@4d154ccd]" started-at="2023-09-20T21:15:53 SGT" name="TestUS1AC2" data-provider="DataProviderUS1AC1NegativeTests" finished-at="2023-09-20T21:15:53 SGT" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[NOGENDER]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-01-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Invalid gender]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS1AC2 -->
+        <test-method signature="TestUS1AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String)[pri:0, instance:TestCases.UserStory1@4d154ccd]" started-at="2023-09-20T21:15:53 SGT" name="TestUS1AC2" data-provider="DataProviderUS1AC1NegativeTests" finished-at="2023-09-20T21:15:54 SGT" duration-ms="60" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-532]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-13-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[There are some issues with working class hero]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS1AC2 -->
+        <test-method signature="TestUS1AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String)[pri:0, instance:TestCases.UserStory1@4d154ccd]" started-at="2023-09-20T21:15:54 SGT" name="TestUS1AC2" data-provider="DataProviderUS1AC1NegativeTests" finished-at="2023-09-20T21:15:54 SGT" duration-ms="38" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-1896]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1975-09-19'T'23:14:27]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Invalid birthdate format]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS1AC2 -->
+        <test-method signature="TestUS1AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String)[pri:0, instance:TestCases.UserStory1@4d154ccd]" started-at="2023-09-20T21:15:54 SGT" name="TestUS1AC2" data-provider="DataProviderUS1AC1NegativeTests" finished-at="2023-09-20T21:15:54 SGT" duration-ms="58" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-41]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2025-05-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[There are some issues with working class hero]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS1AC2 -->
+        <test-method signature="TestUS1AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String)[pri:0, instance:TestCases.UserStory1@4d154ccd]" started-at="2023-09-20T21:15:54 SGT" name="TestUS1AC2" data-provider="DataProviderUS1AC1NegativeTests" finished-at="2023-09-20T21:15:54 SGT" duration-ms="37" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-42]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-01-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[-10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Salary must be greater than or equals to zero]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS1AC2 -->
+        <test-method signature="TestUS1AC2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Double,int,int,java.lang.String)[pri:0, instance:TestCases.UserStory1@4d154ccd]" started-at="2023-09-20T21:15:54 SGT" name="TestUS1AC2" data-provider="DataProviderUS1AC1NegativeTests" finished-at="2023-09-20T21:15:54 SGT" duration-ms="37" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[natid-42]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test User]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MALE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1985-01-01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value is-null="true"/>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[must be greater than or equal to 0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS1AC2 -->
+      </class> <!-- TestCases.UserStory1 -->
+      <class name="TestCases.UserStory6">
+        <test-method signature="TestUS6AC1()[pri:0, instance:TestCases.UserStory6@7f9ab969]" started-at="2023-09-20T21:15:58 SGT" name="TestUS6AC1" finished-at="2023-09-20T21:15:58 SGT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS6AC1 -->
+      </class> <!-- TestCases.UserStory6 -->
+      <class name="TestCases.UserStory5">
+        <test-method signature="TestUS6AC1(java.lang.String,java.lang.String)[pri:0, instance:TestCases.UserStory5@5a6482a9]" started-at="2023-09-20T21:15:58 SGT" name="TestUS6AC1" data-provider="DataProviderUS5" finished-at="2023-09-20T21:15:58 SGT" duration-ms="37" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[OWE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUS6AC1 -->
+      </class> <!-- TestCases.UserStory5 -->
+    </test> <!-- Regression -->
+  </suite> <!-- Testing Working Class Hero App -->
+</testng-results>
